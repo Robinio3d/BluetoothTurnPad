@@ -11,3 +11,5 @@ Getting Started
   4. Flash the code to your ESP32-WROOM-32.
 
   5. Check whether it starts pairing and establishing a Bluetooth connection
+
+  6. Test arrow keys by shortly connecting GND with GPIO14/GPIO27
