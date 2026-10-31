@@ -4,7 +4,7 @@ This is a project where I built a 3d printed Bluetooth Arrow Keypad.
 Getting Started
   1. Download and install the Arduino IDE.
 
-  2. Select your board (ESP32 Dev Module) and the correct port on your computer.
+  2. Connect the ESP with an USB-C cable and select your board (ESP32 Dev Module) and the correct port on your computer.
 
   3. Open the sketch BLETurner.ino.
 
