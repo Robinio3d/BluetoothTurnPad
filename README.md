@@ -1,5 +1,6 @@
 # BluetoothTurnPad
 This is a project where I built a 3d printed Bluetooth Arrow Keypad.
+Check out the project on makerworld: https://makerworld.com/de/models/3524293-bluetooth-page-turner-pedal
 
 Getting Started
   1. Download and install the Arduino IDE.
